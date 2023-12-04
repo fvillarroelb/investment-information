@@ -1,0 +1,16 @@
+{
+"bolsaComercio":{
+    "chile":{
+        "urlDividendos":"https://www.bolsadesantiago.com/api/RV_ResumenMercado/getDividendos",
+        "urlGetMercadoResumen": "https://www.bolsadesantiago.com/api/Mercados/getUTMercados"
+    }
+},
+"dataBase":{
+    "collectionDividends":"dividendos",
+    "collectionFinancialInformation":"informacion-financiera"
+ },
+ "googleSheets":{
+    "spreadsheetDividends":"dividendos",
+    "spreadsheetFinancialInformation":"informacion-financiera"
+ }
+}
